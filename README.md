@@ -12,3 +12,5 @@ https://killian356.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Killian Chamberlain
+
+### ©️2019 Run Buddy, Inc
